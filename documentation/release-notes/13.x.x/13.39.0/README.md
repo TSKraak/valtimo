@@ -1,7 +1,7 @@
 # 13.39.0
 
 {% hint style="info" %}
-**Release date 29-07-2026**
+**Release date 30-07-2026**
 {% endhint %}
 
 ## New Features
